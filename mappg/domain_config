@@ -1,0 +1,4 @@
+kernel="./testkernel"
+memory=32
+name="mapping"
+on_crash='destroy'
